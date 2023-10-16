@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Página Web</title>
+</head>
+<body>
+ <header>
+        <h1>Bienvenido a mi página web</h1>
+    </header>
+<table border="10">
+  <tr>
+    <th>Nom</th>
+    <th>Edat</th>
+    <th>Ciutat</th>
+  </tr>
+  <tr>
+    <td>Ana</td>
+    <td>25</td>
+    <td>Barcelona</td>
+  </tr>
+  <tr>
+    <td>Pau</td>
+    <td>32</td>
+    <td>Madrid</td>
+  </tr>
+</table>
+
+<style>
+  table {
+    border-style: solid;
+    border-color: blue;
+    border-radius: 20px;
+  }
+</style>
+</body>
