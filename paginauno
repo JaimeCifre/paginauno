@@ -24,12 +24,4 @@
     <td>Madrid</td>
   </tr>
 </table>
-
-<style>
-  table {
-    border-style: solid;
-    border-color: blue;
-    border-radius: 20px;
-  }
-</style>
 </body>
